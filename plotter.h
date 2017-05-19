@@ -54,6 +54,8 @@ private:
 
 class PlotSettings
 {
+
+public:
     PlotSettings();
 
     void scroll(int dx, int dy);
